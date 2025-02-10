@@ -11,7 +11,7 @@ import asyncio
 spanish_text=read_text_from_pdf('email_document.pdf')
 
 task="""
-   ### Prompt for Shopping Agent – Migros Online Grocery Order
+   ### Prompt for Translation Agent
 
 **Objective:**  
 Visit [Google Translate](http://translate.google.com/), translate a text from Spanish to English, and write a letter to your colleague in English in docs.goole.com.
