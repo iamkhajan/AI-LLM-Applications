@@ -1,0 +1,3 @@
+browser_use
+playwright
+PyPDF2
